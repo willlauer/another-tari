@@ -1,0 +1,1 @@
+For a sample game `pong` created from a monogame template, run `dotnet mgcb-editor` from the `pong` directory
